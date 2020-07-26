@@ -10,7 +10,7 @@ from './styles';
 const Main: React.FC = () => {
   return(
       <Container>
-          <Header>
+        <Header>
             <button>
                 <BackIcon/>
             </button>
@@ -19,16 +19,16 @@ const Main: React.FC = () => {
                 <strong>Juu</strong>
                 <span>1.200 Tweets</span>
             </ProfileInfo>
+        </Header>
 
-            <ProfilePage/>
+        <ProfilePage/>
 
-            <BottomMenu>
-                <HomeIcon/>
-                <SearchIcon/>
-                <BellIcon/>
-                <EmailIcon/>
-            </BottomMenu>
-          </Header>
+        <BottomMenu>
+            <HomeIcon/>
+            <SearchIcon/>
+            <BellIcon/>
+            <EmailIcon/>
+        </BottomMenu>
       </Container>
   );
 }
