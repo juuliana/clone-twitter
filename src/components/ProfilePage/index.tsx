@@ -16,7 +16,7 @@ const ProfilePage: React.FC = () => {
                 <h2>@juu_ribeiro1</h2>
 
                 <p>
-                    Você só vive uma vez, mas se você fizer isso direito, uma vez é suficiente 🌻
+                    Você só vive uma vez, mas se você fizer isso direito, uma vez é suficiente
                 </p>
                 
                 <ul>
