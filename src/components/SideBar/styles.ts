@@ -70,11 +70,7 @@ export const Body = styled.div`
     padding: 57px 24px 200px;
     margin-top: 3px;
 
-    position: sticky;
-    top: 0;
-
     > div + div{
         margin-top: 15px;
     }
 `;
-
