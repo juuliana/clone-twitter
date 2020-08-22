@@ -1,8 +1,6 @@
+![Twitter](https://github.com/juuliana/clone-twitter/blob/master/src/twitter.png)
+
 <h1 align="center">
-  
-  ![Twitter]()
-  
-<br>
   Clone - Twitter
 </h1>
 
