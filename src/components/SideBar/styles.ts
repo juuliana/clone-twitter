@@ -49,7 +49,7 @@ export const SearchInput = styled.input`
     outline: 0;
 
     &:focus{
-        border: 1px solid var(--twiiter);
+        border: 1px solid var(--twitter);
 
         ~ svg{
             fill: var(--twitter);
